@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Calculator.dir/src/main.cpp.o CMakeFiles/Calculator.dir/src/Calculator.cpp.o CMakeFiles/Calculator.dir/src/ConfigReader.cpp.o -o Calculator  libMathFunctions.a /usr/lib/x86_64-linux-gnu/libspdlog.so.1.12.0 -lyaml-cpp /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

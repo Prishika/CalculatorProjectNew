@@ -1,0 +1,4 @@
+/home/rishka/CalculatorProject/build/CMakeFiles/MathFunctions.dir
+/home/rishka/CalculatorProject/build/CMakeFiles/Calculator.dir
+/home/rishka/CalculatorProject/build/CMakeFiles/edit_cache.dir
+/home/rishka/CalculatorProject/build/CMakeFiles/rebuild_cache.dir
